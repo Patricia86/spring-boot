@@ -1,4 +1,4 @@
-package nl.lely;
+package nl.lely.entities;
 
 /**
  * Created by ple20962 on 18-4-2017.

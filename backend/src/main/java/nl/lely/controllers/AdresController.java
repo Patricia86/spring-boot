@@ -1,5 +1,6 @@
-package nl.lely;
+package nl.lely.controllers;
 
+import nl.lely.entities.Adres;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
