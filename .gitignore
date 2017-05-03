@@ -1,0 +1,24 @@
+#compiled class files
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# generated folders
+/frontend/target/
+/backend/target/
+
+# .idea files
+workspace.xml
+vcs.xml
+
+# angular
+/frontend/src/main/frontend/node_modules/
